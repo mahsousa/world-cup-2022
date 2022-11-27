@@ -1,4 +1,7 @@
 # World Cup 2022
+![home](https://user-images.githubusercontent.com/32987989/204162060-da855922-f6c1-4454-9d70-f8e0f74cf4d0.jpg)
+![dashboard](https://user-images.githubusercontent.com/32987989/204162067-c0b8970c-aa20-4a67-968d-e4a0036a1ec1.jpg)
+![profile](https://user-images.githubusercontent.com/32987989/204162070-714eefb6-70a8-4e7f-8fa4-ad5dd3a10aa4.jpg)
 
 Projeto FullStack de palpites dos jogos da copa do mundo de 2022,O projeto consiste em dar palpites nos jogos da copa, e compartilhar com os amigos os palpites.
 
