@@ -8,13 +8,21 @@ O projeto consiste em dar palpites nos jogos da copa, e compartilhar com os amig
 Bibliotecas usadas:
 
 React.js
+
 tailwind - css
+
 PlanetScale - manipulação de dados com prisma
+
 Koa
+
 Bcrypt - criptografia
+
 Json web tokens
+
 Dotenv-safe - carregar o arquivo env na aplicação
+
 Axios - requisições HTTP
+
 Formik - gerenciar form
 
 
