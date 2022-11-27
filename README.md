@@ -1,9 +1,9 @@
 # World Cup 2022
-#
+
 Projeto FullStack de palpites dos jogos da copa do mundo de 2022,O projeto consiste em dar palpites nos jogos da copa, e compartilhar com os amigos os palpites.
 
 # Bibliotecas usadas:
-#
+
 React.js
 
 tailwind - css
