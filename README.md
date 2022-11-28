@@ -7,23 +7,25 @@ Projeto FullStack de palpites dos jogos da copa do mundo de 2022,O projeto consi
 
 # Bibliotecas utilizadas:
 
-React.js
+React.Js
 
-Tailwind - css
+Tailwind CSS - CSS
 
-PlanetScale - manipulação de dados com prisma
+Prisma.io - Definir modelos a partir de um BD existente
 
-Koa
+PlanetScale - Manipulação de dados com prisma
 
-Bcrypt - criptografia
+Koa.js - Subir serviço HTTP
 
-Json web tokens
+Bcrypt - Criptografia
 
-Dotenv-safe - carregar o arquivo env na aplicação
+JSON Web Tokens - jwt.io - Criação de Token
 
-Axios - requisições HTTP
+Dotenv-safe - Carregar o arquivo env na aplicação
 
-Formik - gerenciar form
+Axios - Requisições HTTP
+
+Formik - Gerenciar form
 
 
 # Getting Started with Create React App
