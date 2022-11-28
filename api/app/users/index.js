@@ -74,14 +74,14 @@ export const login = async ctx => {
     }
 }
 
-export const hunches = async ctx =>{
+export const hunches = async ctx => {
     const username = ctx.request.params.username
 
     const user = await prisma.user.findUnique({
-        where: {username}
+        where: { username }
     })
 
-    if(!user){
+    if (!user) {
         ctx.status = 404
         return
     }
